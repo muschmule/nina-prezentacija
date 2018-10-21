@@ -82,7 +82,7 @@
             padding-top: 20px;
          }
         .nina {
-            image-orientation: 90grad;
+            align-items: right;
             padding-right: 50px;
             max-width: 25%;
     
