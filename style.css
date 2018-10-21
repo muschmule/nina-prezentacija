@@ -97,4 +97,10 @@
              background: gray;
 
          }
+                
+        .iframe {
+            padding-right: 70px;
+            padding-top: 50px;
+        }
+        
 }
