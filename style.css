@@ -1,0 +1,100 @@
+
+        body {
+            background-color: #F1F0F1;
+            font-family: arial;
+            font-size: 16px;
+            padding-top: 2%;
+        }
+
+        h1 {
+            color: black;
+        }
+
+        
+        nav a {  
+            top: 0;
+            background: #242326;
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 2%;
+        }
+        
+        a {
+            text-decoration: none;
+            color: black;
+        }
+        img { 
+            padding-top: 2%;
+            max-width: 100%;
+        }
+        .nina {
+            align-self: center;
+            padding-top: 2%;
+        }
+
+        @media (min-width: 800px) {
+
+        h4 {
+            color: #423A30;
+            font-family: arial;
+            padding-left: 50px;
+        }
+
+        nav { 
+            background: #ffffff;
+            color: black;
+            display: flex;
+        }
+        ul {
+            padding-left: 60px;
+        }
+
+        nav a { 
+            background: #242326;
+            font-size: 18px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            color: white;
+            text-decoration: none;
+            padding-left: 8px;
+            padding-right: 5px;
+            padding-bottom: 8px;
+            padding-top: 8px;
+            width: 80%;
+            text-align: center;
+        }
+        
+        a {
+            color: black;
+            padding-left: 50px;
+        }
+
+        p {
+            width: 800px;
+            text-align: justify;
+            padding-left: 50px;
+            padding-top: 40px;
+        }
+
+        img {
+            max-width: 32%;
+            padding: 5px;
+            padding-top: 20px;
+         }
+        .nina {
+            image-orientation: 90grad;
+            padding-right: 50px;
+            max-width: 25%;
+    
+            }
+
+        .contact {
+            padding-top: 150px;
+            padding-left: 70px;
+        }
+
+        nav a:hover {
+             background: gray;
+
+         }
+}
